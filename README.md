@@ -3,6 +3,7 @@
 | Protocol          | High      | Medium    | Low       | Q/A Grade | Payout  | Focus Time |
 |-------------------|-----------|-----------|-----------|-----------|---------|---------   |
 | 2023-03-asymmetry | Rejected  | Rejected  | -         | B         | $13     |    !rec    |
+|                                  I give up                                               |
 | 2023-08-tangible  | 2H        |        0  | -         |  -        | $14     |11-  12 hrs |
 | **Total**         |           |           |           |           | **$27** |            |
 
@@ -24,6 +25,15 @@
 #### Immunefi 🔷
 
 -
+
+#### Cantina 🪐
+
+ cantina_bouncer🐱‍💻 == true 
+
+
+
+
+
 
 
 
