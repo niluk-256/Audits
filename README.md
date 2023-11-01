@@ -1,15 +1,16 @@
 #### Code4rena 🔮
 
-| Protocol          | High      | Medium    | Low       | Q/A Grade | Payout  | Focus Time |
-|-------------------|-----------|-----------|-----------|-----------|---------|---------   |
-| 2023-03-asymmetry | Rejected  | Rejected  | -         | B         | $13     |    !rec    |
-|                                😑I give up                                               |
-| 2023-08-tangible  |2H/lot dups|        0  | -         |  -        | $14     |11-  12 hrs |
-| **Total**         |           |           |           |           | **$27** |            |
+| Platform          | High      | Medium    | Low       | Q/A Grade | Payout  | Focus Time     |
+|-------------------|-----------|-----------|-----------|-----------|---------|----------------|
+| 2023-03-asymmetry | Rejected  | Rejected  | -         | B         | $13     |    !rec        |
+|                                😑I give up                                                   |
+| 2023-08-tangible  |2H/lot dups|        0  | -         |  -        | $14     |11-  12 hrs     |
+| 2023-08-Doplex    |           |       1M  | -         |  -        | $60.12  |4h-6h/day 4 days|
+| **Total**         |           |           |           |           | **$87.12** |             |
 
 #### CodeHawks 🦅 
 
-| Protocol          | High      | Medium    | Low       | Q/A Grade | Payout   | Focus Time|
+| Platform          | High      | Medium    | Low       | Q/A Grade | Payout   | Focus Time|
 |-------------------|-----------|-----------|-----------|-----------|----------|---------  |
 | 2023-07-Beetle    |1H/lot dups| -         | -         | -         | $0.22    | 10-15 min |
 | 2023-08-sparkn    |           |   1M      |  2L       |           |  $192    | 14-15 hrs |
@@ -17,9 +18,9 @@
 
 #### Sherlock 🎷
 
-| Protocol          | High      | Medium    |   Judging | Payout    | Focus Time|
-|-------------------|-----------|-----------|-----------|-----------|-----------|
-| 2023-09-GitCoin   | 1H/7dups  | -         | -         |  soon     |  10-12 hrs|
+| Platform          | High      | Medium    |   Judging | Payout    | Focus Time        |
+|-------------------|-----------|-----------|-----------|-----------|------------------ |
+| 2023-09-GitCoin   | 1H/7dups  | -         | -         |  soon     |  4-6hrs/day 5 days|
 
 
 
