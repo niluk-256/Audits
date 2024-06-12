@@ -21,7 +21,7 @@
 | Platform          | High      | Medium    |   Judging | Payout    | Focus Time        |
 |-------------------|-----------|-----------|-----------|-----------|------------------ |
 | 2023-09-GitCoin   | 1H/7dups  | -         | -         |  $421.88  |  4-6hrs/day 4 days|
-
+  2024-05-midas     |           |1 M/15dups |  -        |   -       |   1-2 hrs         |
 
 
 #### Hats_Finance 🤠
